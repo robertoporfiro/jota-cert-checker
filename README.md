@@ -1,5 +1,7 @@
 # jota-cert-checker
 
+Also take a look this one - https://prefetch.net/articles/checkcertificate.html
+
 ## Description
 
 A script to check SSL certificate expiration date of a list of sites.
